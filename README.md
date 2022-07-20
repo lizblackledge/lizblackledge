@@ -14,7 +14,7 @@ I'm a Software Engineer currently based out of Oklahoma City. I love learning la
 * <a href="https://github.com/Liz5112/LangChat">LangChat</a> - Social Media App for Language Learning and Exchanges
 * <a href="https://github.com/Liz5112/tubi-cards">Tubī Cards</a> - Sleek and Efficient Memorization Tool 
 * <a href="https://github.com/Liz5112/kayak-pal">Kayak Pal</a> - Kayaking Planning Site that Leverages Google Maps and OpenWeather APIs
-* * <a href="https://github.com/oslabs-beta/Kaffia">Kaffia</a> - Apache Kafka Visualizer and Administrator
+* <a href="https://github.com/oslabs-beta/Kaffia">Kaffia</a> - Apache Kafka Visualizer and Administrator
 * <a href="https://github.com/Liz5112/portfolio">Portfolio Site</a> - lizblackledge.dev
 
 ### 💪🏾 I'm currently working on...
