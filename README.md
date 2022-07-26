@@ -12,7 +12,7 @@ I'm a Software Engineer currently based out of Oklahoma City. I love learning la
 ### ✨ My Favorite Project Repos
 * <a href="https://github.com/Liz5112/Estrella-Coffee-Co" rel="noreferrer" target="_blank">Estrella Coffee Co.</a> - E-commerce Site for Lovers of Artisan Coffee
 * <a href="https://github.com/Liz5112/LangChat" rel="noreferrer" target="_blank">LangChat</a> - Social Media App for Language Learning and Exchanges
-* <a href="https://github.com/Liz5112/tubi-cards" rel="noreferrer" target="_blank">Tubī Cards</a> - Sleek and Efficient Memorization Tool 
+* <a href="https://github.com/Liz5112/MemTool" rel="noreferrer" target="_blank">MemTool</a> - Sleek and Efficient Memorization Tool 
 * <a href="https://github.com/Liz5112/kayak-pal" rel="noreferrer" target="_blank">Kayak Pal</a> - Kayaking Planning Site that Leverages Google Maps and OpenWeather APIs
 * <a href="https://github.com/oslabs-beta/Kaffia" rel="noreferrer" target="_blank">Kaffia</a> - Open Source Apache Kafka Visualizer and Administrator
 * <a href="https://github.com/Liz5112/portfolio" rel="noreferrer" target="_blank">Portfolio Site</a> - <a href="https://lizblackledge.dev" rel="noreferrer" target="_blank">lizblackledge.dev</a>
