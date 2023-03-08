@@ -10,10 +10,10 @@ I'm a Software Engineer currently based out of Oklahoma City. I love learning la
 ...and whatever else I come into contact with. I love a good challenge!
 
 ### ✨ My Favorite Project Repos
-* <a href="https://github.com/Liz5112/Estrella-Coffee-Co" rel="noreferrer" target="_blank">Estrella Coffee Co.</a> - E-commerce Site for Lovers of Artisan Coffee
-* <a href="https://github.com/Liz5112/LangChat" rel="noreferrer" target="_blank">LangChat</a> - Social Media App for Language Learning and Exchanges
-* <a href="https://github.com/Liz5112/MemTool" rel="noreferrer" target="_blank">MemTool</a> - Sleek and Efficient Memorization Tool 
-* <a href="https://github.com/Liz5112/portfolio" rel="noreferrer" target="_blank">Portfolio Site</a> - <a href="https://lizblackledge.dev" rel="noreferrer" target="_blank">lizblackledge.dev</a>
+* <a href="https://github.com/lizblackledge/Estrella-Coffee-Co" rel="noreferrer" target="_blank">Estrella Coffee Co.</a> - E-commerce Site for Lovers of Artisan Coffee
+* <a href="https://github.com/lizblackledge/LangChat" rel="noreferrer" target="_blank">LangChat</a> - Social Media App for Language Learning and Exchanges
+* <a href="https://github.com/lizblackledge/MemTool" rel="noreferrer" target="_blank">MemTool</a> - Sleek and Efficient Memorization Tool 
+* <a href="https://github.com/lizblackledge/portfolio" rel="noreferrer" target="_blank">Portfolio Site</a> - <a href="https://lizblackledge.dev" rel="noreferrer" target="_blank">lizblackledge.dev</a>
 
 ### 💪🏾 I'm currently working on...
 <ul>
@@ -24,7 +24,7 @@ I'm a Software Engineer currently based out of Oklahoma City. I love learning la
 </ul>
 
 
-![Liz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liz5112&show_icons=true&theme=dark)
+![Liz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizblackledge&show_icons=true&theme=dark)
 
 <!--
 
