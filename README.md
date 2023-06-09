@@ -1,6 +1,6 @@
 ## Hi, I'm Liz.
 
-I'm a Software Engineer currently based out of Oklahoma City. I love learning languages, exploring new cultures, board games, martial arts, yoga, hiking, kayaking, and coding. 
+I'm a Software Engineer based out of Oklahoma City. I love learning languages, exploring new cultures, board games, martial arts, yoga, hiking, kayaking, and coding. 
 
 ### 🤝🏽 Get In Touch
 <a href="https://www.linkedin.com/in/lizblackledge01/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://lizblackledge.dev" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a><a href="mailto:lizblackledge01@gmail.com" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://medium.com/@liz5112" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/medium-D3D3D3?style=for-the-badge&logo=medium&logoColor=lightgrey"></a>
@@ -18,8 +18,6 @@ I'm a Software Engineer currently based out of Oklahoma City. I love learning la
 ### 💪🏾 I'm currently working on...
 <ul>
   <li>Authentication and OAuth</li> 
-  <li>Unit Testing with React Testing Library</li> 
-  <li>TypeScript</li>
   <li>Next.js</li>
 </ul>
 
